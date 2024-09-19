@@ -44,7 +44,7 @@ function numberOfElements(numbers) {
     return len;
 }
 
-numberOfElements([12, 45, 78, 45, 121254, 4, 5]);
+numberOfElements([11, 45, 78, 45, 121254, 4, 5]);
 
 const element = numberOfElements([12, 45, 78, 45, 121254, 4, 5]);
 console.log(element);
